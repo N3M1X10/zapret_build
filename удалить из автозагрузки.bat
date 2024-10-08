@@ -1,10 +1,9 @@
 @echo off
-chcp 65001
 
 reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ /v "zapret-master" /f
 
 echo.
-echo [92mÐ£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¸Ð· Ð°Ð²Ñ‚Ð¾Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾[96m
+echo [92m“¤ «¥­¨¥ ¨§  ¢â®§ £àã§ª¨ § ¢¥àè¥­®[96m
 
 >nul timeout /t 2
 exit /b

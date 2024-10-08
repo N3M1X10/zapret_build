@@ -1,10 +1,9 @@
 @echo off
-chcp 65001
 
 reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /f /v "zapret-master" /d "%~dp0zapret\zapret-winws\preset_russia+discord.cmd"
 
 echo.
-echo [92mÐ”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð² Ð°Ð²Ñ‚Ð¾Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾[96m
+echo [92m„®¡ ¢«¥­¨¥ ¢  ¢â®§ £àã§ªã § ¢¥àè¥­®[96m
 
 >nul timeout /t 2
 exit /b
