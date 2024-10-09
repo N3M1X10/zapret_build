@@ -1,15 +1,15 @@
 @echo off
 chcp 65001 >nul
 
-:: Проверка пути
-set scriptPath=%~dp0
-set "path_no_spaces=%scriptPath: =%"
-if not "%scriptPath%"=="%path_no_spaces%" (
-    echo Путь содержит пробелы. 
-    echo Пожалуйста, переместите скрипт в папку без пробелов.
-    >nul pause
-    exit /b
-)
+rem :: Проверка пути
+rem set scriptPath=%~dp0
+rem set "path_no_spaces=%scriptPath: =%"
+rem if not "%scriptPath%"=="%path_no_spaces%" (
+rem     echo Путь содержит пробелы. 
+rem     echo Пожалуйста, переместите скрипт в папку без пробелов.
+rem     >nul pause
+rem     exit /b
+rem )
 
 :: Наличие прав администратора
 echo.
