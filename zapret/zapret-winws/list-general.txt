@@ -16,6 +16,7 @@ wide-youtube.l.google.com
 yt3.ggpht.com
 play.google.com
 play.google.ru
+
 discord-attachments-uploads-prd.storage.googleapis.com
 dis.gd
 discord.co
@@ -50,6 +51,7 @@ discord.dev
 discord.new
 discord.gift
 discord.co
+
 a007aa.com
 a-007.ru
 a0-service.ru
