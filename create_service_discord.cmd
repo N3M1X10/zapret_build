@@ -1,5 +1,21 @@
 @echo off
-chcp 65001 >nul
+
+:: Проверка пути
+set scriptPath=%~dp0
+set "path_no_spaces=%scriptPath: =%"
+if not "%scriptPath%"=="%path_no_spaces%" (
+    echo Путь содержит пробелы. 
+    echo Пожалуйста, переместите скрипт в папку без пробелов.
+    >nul pause
+    exit /b
+)
+
+:: Наличие прав администратора
+echo.
+echo Данный файл должен быть запущен с правами администратора (ПКМ -^> Запустить от имени администратора).
+echo Если вы уверены, нажмите любую клавишу, чтобы продолжить создание службы
+echo.
+pause
 
 
 set BIN=%~dp0zapret\zapret-winws\
@@ -17,4 +33,4 @@ sc description "%SRVCNAME%" "zapret DPI bypass software"
 sc start "%SRVCNAME%"
 
 echo.
-echo ╨Э╨░╨╢╨╝╨╕╤В╨╡ ╨╗╤О╨▒╤Г╤О ╨║╨╜╨╛╨┐╨║╤Г ╤З╤В╨╛╨▒╤Л ╨╖╨░╨║╤А╤Л╤В╤М ╨╛╨║╨╜╨╛ . . . & >nul pause & exit
+echo Нажмите любую кнопку чтобы закрыть окно . . . & >nul pause & exit
