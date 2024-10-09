@@ -6,6 +6,8 @@
 
 Основано на репозитории: https://github.com/bol-van/zapret/
 
+### [Скачать последнюю версию репозитория](https://github.com/N3M1X10/zapret_build/archive/refs/heads/main.zip)
+
 
 ## Переход на автозапуск через службы
 
@@ -30,6 +32,13 @@
 
 
 - `Start winws (preset_russia+discord).bat` запускает консоль с winws для разблокировки Youtube и Discord
+
+
+### Примечания:
+
+- Консольная программа через `Start winws (preset_russia+discord).bat` не запускается если работает служба утилиты.
+- Если служба не создаётся, попробуйте запускать утилиту либо на рабочем столе, либо в корневом каталоге диска. К примеру: `C:\zapret_build-main`
+
 
 ## Благодарность
 
