@@ -15,6 +15,7 @@ echo [96mУдаляется служба zapret-discord . . .[33m
 echo.
 set SRVNAME=zapret-discord
 
+sc stop windivert
 net stop "%SRVNAME%"
 sc delete "%SRVNAME%"
 
