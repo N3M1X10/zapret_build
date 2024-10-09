@@ -29,6 +29,8 @@
 
 - `remove_service_general.cmd` - если потребовалось отключить автозапуск
 
+- `remove_all_services.bat` - чтобы удалить все службы сборки
+
 
 ### Консольная программа
 1. Запусти `preset_general.cmd`
@@ -52,3 +54,4 @@
 ## Благодарность
 
 [Способ взят из темы оригинального репозитория у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
+[Репозиторий Flowseal](https://github.com/Flowseal/zapret-discord-youtube)
