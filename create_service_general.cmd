@@ -37,4 +37,4 @@ sc description "%SRVNAME%" "zapret DPI bypass software"
 sc start "%SRVNAME%"
 
 echo.
-echo [92mНажмите любую кнопку чтобы закрыть окно . . . & >nul pause & exit
+echo Нажмите любую кнопку чтобы закрыть окно . . . & >nul pause & exit
