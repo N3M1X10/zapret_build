@@ -1,0 +1,25 @@
+* checking system
+CYGWIN detected
+firewall type is windivert
+* checking already running zapret processes
+!!! WARNING. some dpi bypass processes already running !!!
+!!! WARNING. blockcheck requires all DPI bypass methods disabled !!!
+!!! WARNING. pls stop all dpi bypass instances that may interfere with blockcheck !!!
+* checking prerequisites
+* checking DNS
+system DNS is working
+comparing system resolver to public DNS : 8.8.8.8
+pornhub.com : MISMATCH
+-- system resolver :
+66.254.114.41
+-- 8.8.8.8 :
+75.2.115.196
+-- POSSIBLE DNS HIJACK DETECTED. ZAPRET WILL NOT HELP YOU IN CASE DNS IS SPOOFED !!!
+-- DNS CHANGE OR DNSCRYPT MAY BE REQUIRED
+* checking virtualization
+cannot detect
+
+NOTE ! this test should be run with zapret or any other bypass software disabled, without VPN
+
+specify domain(s) to test. multiple domains are space separated.
+domain(s) (default: rutracker.org) : 
