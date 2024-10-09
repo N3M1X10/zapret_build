@@ -2,9 +2,11 @@
 
 Моя личная сборка на основе утилиты zapret-master
 
-Сборка утилиты от: https://github.com/N3M1X10
-
-Основано на репозитории: https://github.com/bol-van/zapret/
+> Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
+> 
+> Сборка утилиты от: https://github.com/N3M1X10
+> 
+> Основано на репозитории: https://github.com/bol-van/zapret/
 
 ### [Скачать последнюю версию репозитория](https://github.com/N3M1X10/zapret_build/archive/refs/heads/main.zip)
 
