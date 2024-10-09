@@ -1,2 +1,3 @@
-net stop winws1
-rem net stop winws2
+set SRVNAME=zapret
+
+net stop "%SRVNAME%"

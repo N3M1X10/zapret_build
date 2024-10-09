@@ -1,2 +1,3 @@
-sc start winws1
-rem sc start winws2
+set SRVNAME=zapret
+
+sc start "%SRVNAME%"
