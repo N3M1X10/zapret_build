@@ -23,12 +23,12 @@
 - Если потребовалось отключить автозапуск, запусти ярлык: `Удалить службу`
 
 ### Консольная программа
-1. Запусти ярлык `Start winws (preset_russia+discord)`
+1. Запусти ярлык `Start winws (preset_russia+discord).bat`
 
 Можно скопировать этот ярлык в удобное место.
 
 
-- `Start winws (preset_russia+discord)` запускает консоль с winws для разблокировки Youtube и Discord
+- `Start winws (preset_russia+discord).bat` запускает консоль с winws для разблокировки Youtube и Discord
 
 ## Благодарность
 
