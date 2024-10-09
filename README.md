@@ -7,6 +7,8 @@
 > Сборка утилиты от: https://github.com/N3M1X10
 > 
 > Основано на репозитории: https://github.com/bol-van/zapret/
+>
+> Работает только на Windows, проверено на: Windows 10 Pro 22H2; Сборка ОС 19045.4780
 
 ### [Скачать последнюю версию репозитория](https://github.com/N3M1X10/zapret_build/archive/refs/heads/main.zip)
 
