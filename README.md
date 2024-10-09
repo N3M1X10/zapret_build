@@ -29,3 +29,7 @@
 
 
 - `Start winws (preset_russia+discord)` запускает консоль с winws для разблокировки Youtube и Discord
+
+## Благодарность
+
+[Способ взят из темы оригинального репозитория у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
