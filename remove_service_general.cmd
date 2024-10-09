@@ -1,5 +1,4 @@
 @echo off
-chcp 65001 >nul
 
 set SRVNAME=zapret
 
@@ -7,4 +6,4 @@ sc stop windivert
 net stop "%SRVNAME%"
 sc delete "%SRVNAME%"
 
-echo ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð»ÑŽÐ±ÑƒÑŽ ÐºÐ½Ð¾Ð¿ÐºÑƒ Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð·Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¾ÐºÐ½Ð¾ . . . & >nul pause & exit /b
+echo  ¦¬¨â¥ «î¡ãî ª­®¯ªã çâ®¡ë § ªàëâì ®ª­® . . . & >nul pause & exit /b
