@@ -2,21 +2,6 @@
 
 Моя личная сборка на основе утилиты zapret-master
 
-> Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
-> 
-> Сборка утилиты от: https://github.com/N3M1X10
-> 
-> Основано на репозитории: https://github.com/bol-van/zapret/
->
-
-Работает только на Windows, проверено на:
-```
-Сборки:
-
-Windows 10 Pro 22H2 19045.4780
-Windows 11 26100.2033
-```
-
 [Скачать последнюю версию](https://github.com/N3M1X10/zapret_build/releases)
 
 ---
@@ -31,6 +16,7 @@ Windows 11 26100.2033
 
 
 В таком случае не нужно запускать консольную программу через `preset_general.cmd`
+
 Программа будет запускаться и работать автоматически.
 
 
@@ -56,10 +42,23 @@ Windows 11 26100.2033
 
 ![image](https://github.com/user-attachments/assets/5d9cc6fc-aa53-4966-9fc3-87585d9d8b3c)
 
-
 - После каждой переустановки репозитория требуется `create_service_general.cmd`
 - Консольный запуск программы через `preset_general.cmd` НЕ запускается если работает служба утилиты.
 
+> Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
+> 
+> Сборка утилиты от: https://github.com/N3M1X10
+> 
+> Основано на репозитории: https://github.com/bol-van/zapret/
+>
+
+Работает только на Windows, проверено на:
+```
+Сборки:
+
+Windows 10 Pro 22H2 19045.4780
+Windows 11 26100.2033
+```
 
 ---
 
