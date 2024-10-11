@@ -1,9 +1,11 @@
 @echo off
 
-set SRVNAME=zapret
 
 echo Windivert stopping . . .
 sc stop windivert
+
+
+set SRVNAME=zapret
 
 echo.
 echo Удаляется служба zapret . . .
@@ -24,7 +26,7 @@ sc delete "%SRVNAME%"
 echo.
 echo Удаляется служба zapret-discord-mgts . . .
 echo.
-set SRVCNAME=zapret-discord-mgts
+set SRVNAME=zapret-discord-mgts
 
 net stop "%SRVNAME%"
 sc delete "%SRVNAME%"
