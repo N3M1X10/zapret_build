@@ -45,6 +45,20 @@
 - После каждой переустановки репозитория требуется `create_service_general.cmd`
 - Консольный запуск программы через `preset_general.cmd` НЕ запускается если работает служба утилиты.
 
+## На хромиум браузерах важные параметры
+
+Поставить в дэфолт
+
+![image](https://github.com/user-attachments/assets/f9f5a2b4-790a-48ae-8747-0047370835c7)
+
+
+И отключить Kyber
+
+![image](https://github.com/user-attachments/assets/0f2f0c45-795e-425b-bb35-7d87b3ce5b5f)
+
+
+>>>>>>> Stashed changes
+
 > Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
 > 
 > Сборка утилиты от: https://github.com/N3M1X10
