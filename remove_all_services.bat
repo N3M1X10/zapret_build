@@ -1,10 +1,6 @@
 @echo off
 
 
-echo Windivert stopping . . .
-sc stop windivert
-
-
 set SRVNAME=zapret
 
 echo.
@@ -31,6 +27,8 @@ set SRVNAME=zapret-discord-mgts
 net stop "%SRVNAME%"
 sc delete "%SRVNAME%"
 
+echo Windivert stopping . . .
+sc stop windivert
 
 echo.
 echo Нажмите любую кнопку чтобы закрыть окно . . . & >nul pause & exit

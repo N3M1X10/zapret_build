@@ -29,13 +29,13 @@ set ARGS=--wf-tcp=443-65535 --wf-udp=443-65535 ^
 --filter-tcp=443 --hostlist="%BIN%list-general.txt" --dpi-desync=fake,split2 --dpi-desync-autottl=2 --dpi-desync-fooling=md5sig --dpi-desync-fake-tls="%BIN%tls_clienthello_www_google_com.bin" --new ^
 --dpi-desync=fake,disorder2 --dpi-desync-autottl=2 --dpi-desync-fooling=md5sig
 
-set SRVCNAME=zapret
+set SRVNAME=zapret
 
-net stop "%SRVCNAME%"
-sc delete "%SRVCNAME%"
-sc create "%SRVCNAME%" binPath="\"%BIN%winws.exe\" %ARGS%" DisplayName="zapret DPI bypass: General" start=auto
-sc description "%SRVCNAME%" "zapret DPI bypass software"
-sc start "%SRVCNAME%"
+net stop "%SRVNAME%"
+sc delete "%SRVNAME%"
+sc create "%SRVNAME%" binPath="\"%BIN%winws.exe\" %ARGS%" DisplayName="zapret DPI bypass: General" start=auto
+sc description "%SRVNAME%" "zapret DPI bypass software"
+sc start "%SRVNAME%"
 
 
 echo.
