@@ -1,6 +1,6 @@
 # zapret_build
 
-Моя личная сборка на основе утилиты zapret-master
+Моя личная сборка на основе утилиты zapret
 
 [Скачать последнюю версию](https://github.com/N3M1X10/zapret_build/releases)
 
