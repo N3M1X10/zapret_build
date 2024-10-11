@@ -54,11 +54,14 @@
 ## На хромиум браузерах важные параметры
 
 Поставить в дэфолт
+
 ![image](https://github.com/user-attachments/assets/f9f5a2b4-790a-48ae-8747-0047370835c7)
 
 
 И отключить Kyber
-![image](https://github.com/user-attachments/assets/5d4abafb-4a53-4a66-a0eb-30b60aa4aacc)
+
+![image](https://github.com/user-attachments/assets/0f2f0c45-795e-425b-bb35-7d87b3ce5b5f)
+
 
 
 
