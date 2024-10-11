@@ -48,6 +48,8 @@
 
 ## На хромиум браузерах важные параметры
 
+`chrome://flags/` где chrome - название вашего браузера, например может быть `opera://flags/`
+
 Поставить в дэфолт (Вбить в поисковую строку: `chrome://flags/#enable-quic`)
 
 ![image](https://github.com/user-attachments/assets/f9f5a2b4-790a-48ae-8747-0047370835c7)
