@@ -11,6 +11,7 @@ if not "%scriptPath%"=="%path_no_spaces%" (
     exit /b
 )
 
+
 :: Наличие прав администратора
 echo.
 echo Данный файл должен быть запущен с правами администратора (ПКМ -^> Запустить от имени администратора).
@@ -35,6 +36,7 @@ sc delete "%SRVCNAME%"
 sc create "%SRVCNAME%" binPath="\"%BIN%winws.exe\" %ARGS%" DisplayName="zapret DPI bypass: General" start=auto
 sc description "%SRVCNAME%" "zapret DPI bypass software"
 sc start "%SRVCNAME%"
+
 
 echo.
 echo Нажмите любую кнопку чтобы закрыть окно . . . & >nul pause & exit
