@@ -30,7 +30,7 @@ set SRVCNAME=zapret-discord-mgts
 
 net stop "%SRVCNAME%"
 sc delete "%SRVCNAME%"
-sc create "%SRVCNAME%" BINPath="\"%BIN%winws.exe\" %ARGS%" DisplayName="zapret DPI bypass: Discord" start=auto
+sc create "%SRVCNAME%" BINPath="\"%BIN%winws.exe\" %ARGS%" DisplayName="zapret DPI bypass: Discord (MGTS)" start=auto
 sc description "%SRVCNAME%" "zapret DPI bypass software"
 sc start "%SRVCNAME%"
 
