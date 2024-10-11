@@ -48,12 +48,12 @@
 
 ## На хромиум браузерах важные параметры
 
-Поставить в дэфолт
+Поставить в дэфолт (Вбить в поисковую строку: `chrome://flags/#enable-quic`)
 
 ![image](https://github.com/user-attachments/assets/f9f5a2b4-790a-48ae-8747-0047370835c7)
 
 
-И отключить Kyber
+И отключить Kyber (Вбить в поисковую строку: `chrome://flags/#enable-tls13-kyber`)
 
 ![image](https://github.com/user-attachments/assets/0f2f0c45-795e-425b-bb35-7d87b3ce5b5f)
 
