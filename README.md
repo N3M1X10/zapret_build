@@ -87,6 +87,9 @@ Windows 11 26100.2033
 
 [Способ взят из темы оригинального репозитория у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
 
-[Репозиторий Flowseal](https://github.com/Flowseal/zapret-discord-youtube)
+> [!NOTE]
+> Если не получается найти ответ или получить помощь
+>
+> в данном репозитории - можете обратиться в [Репозиторий Flowseal](https://github.com/Flowseal/zapret-discord-youtube) 
 
 Ну и конечно всем людям что помогают починить сборку ❤
