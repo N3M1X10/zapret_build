@@ -1,6 +1,7 @@
 # zapret_build
 
-Моя личная сборка на основе утилиты zapret
+Моя личная сборка на основе утилиты zapret для разблокировки Youtube и Discord в России.
+
 
 [Скачать последнюю версию](https://github.com/N3M1X10/zapret_build/releases)
 
