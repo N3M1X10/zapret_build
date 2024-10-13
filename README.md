@@ -11,7 +11,7 @@
 
 Данный вид автозагрузки утилиты не добавляет её в привычный автозапуск, а создаёт СЛУЖБУ
 
-- `create_service_general.cmd` - автозапуск программы, общего пресета (и discord и youtube, и прочие)
+- `create_service_general.cmd` - автозапуск программы, общего пресета (discord и youtube)
 
 - `create_service_discord.cmd` - автозапуск пресета для discord
 
@@ -21,21 +21,20 @@
 
 
 ### Пересеты подобранные под определённых операторов
-- `create_service_discord_mgts.cmd` - МГТС
 
-- `preset_discord_mgts.cmd` - МГТС
+`create_service_discord_mgts.cmd` - МГТС (служба)
+
+`preset_discord_mgts.cmd` - МГТС (консоль)
 
 
 ### Если потребовалось отключить автозапуск
 
-- `remove_all_services.bat` - чтобы удалить все службы сборки из автозапуска
+`remove_all_services.bat` - чтобы удалить все службы сборки из автозапуска и остановить WinDivert
 
 
 ### Разовый запуск программы без автозапуска
 
-1. Запусти `preset_general.cmd` для разблокировки Youtube и Discord
-
-- `preset_*.cmd` запускает консоль с winws
+`preset_general.cmd` - для разблокировки Youtube и Discord
 
 
 # ПРИМЕЧАНИЯ
