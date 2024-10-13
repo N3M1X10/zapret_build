@@ -19,13 +19,11 @@ net stop "%SRVNAME%"
 sc delete "%SRVNAME%"
 
 
-echo.
-echo Удаляется служба zapret-discord-mgts . . .
-echo.
-set SRVNAME=zapret-discord-mgts
+echo Windivert stopping . . .
 
-net stop "%SRVNAME%"
-sc delete "%SRVNAME%"
+sc stop windivert
+net stop "WinDivert"
+net stop "WinDivert14"
 
 echo Windivert stopping . . .
 sc stop windivert
