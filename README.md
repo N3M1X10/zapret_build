@@ -72,6 +72,11 @@
 
 ![image](https://github.com/user-attachments/assets/0f2f0c45-795e-425b-bb35-7d87b3ce5b5f)
 
+## Не удаляется или не перемещается папка (Windivert.sys)
+`remove_windivert.bat` - чтобы удалить и выгрузить windivert
+> [!NOTE]
+> После удаления Windivert может потребоваться ручной запуск `preset_general.cmd` чтобы запустить эту службу вновь
+
 ## Прочие детали
 > Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
 > 
