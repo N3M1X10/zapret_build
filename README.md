@@ -33,9 +33,9 @@
 
 ### Разовый запуск программы без автозапуска
 
-1. Запусти `preset_general.cmd`
+1. Запусти `preset_general.cmd` для разблокировки Youtube и Discord
 
-- `preset_*.cmd` запускает консоль с winws для разблокировки Youtube и Discord и прочих сайтов.
+- `preset_*.cmd` запускает консоль с winws
 
 
 # ПРИМЕЧАНИЯ
