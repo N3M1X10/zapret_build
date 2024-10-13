@@ -20,13 +20,9 @@ sc delete "%SRVNAME%"
 
 
 echo Windivert stopping . . .
-
 sc stop windivert
 net stop "WinDivert"
 net stop "WinDivert14"
-
-echo Windivert stopping . . .
-sc stop windivert
 
 echo.
 echo Нажмите любую кнопку чтобы закрыть окно . . . & >nul pause & exit
