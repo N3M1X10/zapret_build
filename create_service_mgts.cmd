@@ -26,7 +26,7 @@ set ARGS=--wf-tcp=80,443,50000-65535 --wf-udp=443,50000-65535 ^
 --filter-tcp=443 --hostlist="%BIN%list-discord.txt" --dpi-desync=fake,split2 --dpi-desync-ttl=2 --dpi-desync-split-pos=1 --dpi-desync=fake,disorder2 --dpi-desync-autottl=2 --dpi-desync-fooling=md5sig
 
 
-set SRVCNAME=zapret-discord-mgts
+set SRVCNAME=zapret-discord
 
 net stop "%SRVCNAME%"
 sc delete "%SRVCNAME%"
