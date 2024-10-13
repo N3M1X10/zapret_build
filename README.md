@@ -72,6 +72,7 @@
 
 ![image](https://github.com/user-attachments/assets/0f2f0c45-795e-425b-bb35-7d87b3ce5b5f)
 
+## Прочие детали
 > Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
 > 
 > Сборка утилиты от: https://github.com/N3M1X10
