@@ -21,8 +21,8 @@
 
 ### Пересеты подобранные под определённых операторов
 
-- `create_service_discord_mgts.cmd` - МГТС (служба)
-- `preset_discord_mgts.cmd` - МГТС (консоль)
+- `create_service_mgts.cmd` - МГТС (служба)
+- `preset_mgts.cmd` - МГТС (консоль)
 
 
 ### Если потребовалось отключить автозапуск
