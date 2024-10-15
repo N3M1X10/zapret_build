@@ -109,6 +109,14 @@ Windows 10 19045.5011
 Windows 11 26100.2033
 ```
 
+## Помощь в тестировании
+> [!warning]
+> ### [DEV Branch](https://github.com/N3M1X10/zapret_build/tree/dev) - ветка, куда загружаются не протестированные изменения
+>
+> Если есть желающие проверить то ознакомьтесь со списком отличий [dev](https://github.com/N3M1X10/zapret_build/tree/dev) от [main](https://github.com/N3M1X10/zapret_build/) на данный момент
+> ### [Список отличий dev](https://github.com/N3M1X10/zapret_build/compare/main...dev)
+
+
 
 ## Благодарность
 
