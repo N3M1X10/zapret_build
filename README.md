@@ -95,25 +95,24 @@
 
 
 ## Прочие детали
+
 > Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
 > 
 > Сборка утилиты от: https://github.com/N3M1X10
 > 
 > Основано на репозитории: https://github.com/bol-van/zapret/
->
 
 
-## Благодарность
-
-[Способ взят из темы оригинального репозитория zapret у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
+# Благодарность ❤
 
 > [!NOTE]
 > Если не получается найти ответ или получить помощь в данном репозитории,
-> всегда можно обратиться к оригинальной документации утилиты zapret и попробовать разобраться со свой проблемой самостоятельно
+> всегда можно обратиться к оригинальной документации утилиты zapret и попробовать разобраться со своей проблемой самостоятельно
 > - [zapret/docs/quick_start.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start.txt)
 > - [zapret/docs/readme.txt](https://github.com/bol-van/zapret/blob/master/docs/readme.txt)
->
->  Также можете обратиться в [Репозиторий Flowseal](https://github.com/Flowseal/zapret-discord-youtube) 
+
+- Также можете обратиться в [Репозиторий Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [Способ взят из темы оригинального репозитория zapret у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
 
 
 ### Ну и конечно отдельное спасибо всем людям, кто помогает починить данную сборку ❤
