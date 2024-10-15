@@ -1,7 +1,7 @@
 # zapret_build
 
 > [!NOTE]
-> Моя личная сборка на основе утилиты zapret для разблокировки Youtube и Discord в России.
+> Моя личная сборка утилиты zapret для Windows, для разблокировки Youtube и Discord в России.
 >
 > [Скачать последнюю версию](https://github.com/N3M1X10/zapret_build/releases)
 >
@@ -20,7 +20,7 @@
 Программа будет запускаться и работать автоматически.
 
 
-## Пересеты подобранные под определённых операторов
+### Пересеты подобранные под определённых операторов
 
 - `create_service_mgts.cmd` - МГТС (служба)
 - `preset_mgts.cmd` - МГТС (консоль)
@@ -36,7 +36,7 @@
 `preset_general.cmd` - стандартный пресет для разблокировки Youtube и Discord
 
 
-# ПРИМЕЧАНИЯ
+# Решение проблем
 
 - Для корректной работы утилиты убедитесь в наличии прав администратора у запускаемых файлов!
 
@@ -53,7 +53,7 @@
 ![image](https://github.com/user-attachments/assets/360ef9a5-626b-4de1-93ef-0efda752562b)
 
 
-## Как вручную проверить, запущена ли служба
+### Как вручную проверить, запущена ли служба
 1. Сочетание клавиш `WIN+R` и в открывшемся окне пишем `services.msc`
 2. Там ищем службу `zapret DPI bypass: *`
 
@@ -61,7 +61,7 @@
 
 3. В столбце "Состояние" должно быть "Выполняется", как на скриншоте выше
 
-## Если после удаления служб, и создания новой - новая запущена, но не работает обход:
+### Если после удаления служб, и создания новой - новая запущена, но не работает обход:
 
 1. Снова удалите службу `remove_services.bat`
 2. Запустите `preset_general.cmd` и закройте окно.
@@ -95,34 +95,26 @@
 
 
 ## Прочие детали
-> Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
-> 
-> Сборка утилиты от: https://github.com/N3M1X10
-> 
-> Основано на репозитории: https://github.com/bol-van/zapret/
->
 
-Работает только на Windows, проверено на сборках:
-```
-Windows 10 19045.4780
-Windows 10 19045.5011
-Windows 11 26100.2033
-```
+- Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
+- Сборка утилиты от: https://github.com/N3M1X10
+- Основано на репозитории: https://github.com/bol-van/zapret/
 
 ## Помощь в тестировании
 > [!warning]
 > ### [DEV Branch](https://github.com/N3M1X10/zapret_build/tree/dev) - ветка, куда загружаются не протестированные изменения
->
-> Если есть желающие проверить то ознакомьтесь со списком отличий [dev](https://github.com/N3M1X10/zapret_build/tree/dev) от [main](https://github.com/N3M1X10/zapret_build/) на данный момент
-> ### [Список отличий dev](https://github.com/N3M1X10/zapret_build/compare/main...dev)
+Если есть желающие проверить то ознакомьтесь со [**списком отличий**](https://github.com/N3M1X10/zapret_build/compare/main...dev) ветки [dev](https://github.com/N3M1X10/zapret_build/tree/dev) от ветки [main](https://github.com/N3M1X10/zapret_build/) на данный момент
 
-
-
-## Благодарность
-
-[Способ взят из темы оригинального репозитория zapret у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
+# Благодарность ❤
 
 > [!NOTE]
-> Если не получается найти ответ или получить помощь в данном репозитории - можете обратиться в [Репозиторий Flowseal](https://github.com/Flowseal/zapret-discord-youtube) 
+> Если не получается найти ответ или получить помощь в данном репозитории,
+> всегда можно обратиться к оригинальной документации утилиты zapret и попробовать разобраться со своей проблемой самостоятельно
+> - [zapret/docs/quick_start.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start.txt)
+> - [zapret/docs/readme.txt](https://github.com/bol-van/zapret/blob/master/docs/readme.txt)
+
+- Также можете обратиться в [Репозиторий Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [Способ взят из темы оригинального репозитория zapret у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
+
 
 ### Ну и конечно отдельное спасибо всем людям, кто помогает починить данную сборку ❤
