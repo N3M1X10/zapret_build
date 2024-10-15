@@ -96,12 +96,14 @@
 
 ## Прочие детали
 
-> Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
-> 
-> Сборка утилиты от: https://github.com/N3M1X10
-> 
-> Основано на репозитории: https://github.com/bol-van/zapret/
+- Сборка активно обновляется, пишите об [ошибках](https://github.com/N3M1X10/zapret_build/issues)
+- Сборка утилиты от: https://github.com/N3M1X10
+- Основано на репозитории: https://github.com/bol-van/zapret/
 
+## Помощь в тестировании
+> [!warning]
+> ### [DEV Branch](https://github.com/N3M1X10/zapret_build/tree/dev) - ветка, куда загружаются не протестированные изменения
+Если есть желающие проверить то ознакомьтесь со [**списком отличий**](https://github.com/N3M1X10/zapret_build/compare/main...dev) ветки [dev](https://github.com/N3M1X10/zapret_build/tree/dev) от ветки [main](https://github.com/N3M1X10/zapret_build/) на данный момент
 
 # Благодарность ❤
 
