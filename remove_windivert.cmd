@@ -1,4 +1,5 @@
 @echo off
+::File saved in 866 encoding
 
 :: Наличие прав администратора
 echo.
