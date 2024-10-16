@@ -1,5 +1,5 @@
 @echo off
-::All files saved in 866
+::this saved in 866
 
 :: Проверка пути
 set scriptPath=%~dp0
