@@ -1,3 +1,4 @@
 
 zapret/blockcheck/blockcheck.log
-create_service_general_own.cmd
+own.bat
+services.bat
