@@ -1,7 +1,5 @@
 @echo off
 setlocal EnableDelayedExpansion
-rem chcp 65001 >nul
-::UTF-8
 ::File saved in 866 encoding
 
 ::Оригинальный парсер взят из репо Flowseal
