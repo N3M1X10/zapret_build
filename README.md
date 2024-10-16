@@ -88,10 +88,11 @@
 
 ![image](https://github.com/user-attachments/assets/0f2f0c45-795e-425b-bb35-7d87b3ce5b5f)
 
-## Не удаляется или не перемещается папка (Windivert.sys)
-`remove_windivert.cmd` - чтобы остановить и удалить windivert
+## Не удаляется или не перемещается папка (WinDivert.sys)
+`remove_windivert.cmd` - чтобы остановить и удалить драйвер WinDivert
 > [!NOTE]
-> После удаления Windivert может потребоваться ручной запуск `preset_general.cmd` чтобы запустить эту службу вновь
+> После удаления WinDivert может потребоваться запуск `general.cmd` чтобы запустить эту создать и запустить службу WinDivert вновь
+> Также помогает перезапуск ПК
 
 
 ## Прочие детали
