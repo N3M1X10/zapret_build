@@ -97,7 +97,7 @@
 ## Не удаляется или не перемещается папка (WinDivert.sys)
 `remove_windivert.cmd` - чтобы остановить и удалить драйвер WinDivert
 > [!NOTE]
-> - После удаления WinDivert может потребоваться запуск `general.cmd` чтобы запустить эту создать и запустить службу WinDivert вновь
+> - После удаления WinDivert может потребоваться запуск `general.cmd` чтобы создать и запустить службу WinDivert вновь
 > - Также помогает перезапуск ПК
 
 
@@ -117,6 +117,7 @@
 > [!NOTE]
 > Если не получается найти ответ или получить помощь в данном репозитории,
 > всегда можно обратиться к оригинальной документации утилиты zapret и попробовать разобраться со своей проблемой самостоятельно
+> - [zapret/docs/quick_start_windows.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start_windows.txt)
 > - [zapret/docs/quick_start.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start.txt)
 > - [zapret/docs/readme.txt](https://github.com/bol-van/zapret/blob/master/docs/readme.txt)
 
