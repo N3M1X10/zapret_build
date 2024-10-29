@@ -73,7 +73,7 @@
 3. Переходим на вкладку "Службы"
 4. Там ищем службу `zapret`
 
-![image](https://github.com/user-attachments/assets/c9117cf7-e08e-47f3-8265-f4544b686c9c)
+![image](https://github.com/user-attachments/assets/df150ba9-35e5-488b-adb3-820c99df2533)
 
 5. В столбце "Состояние" должно быть "Выполняется", как на скриншоте выше
 
