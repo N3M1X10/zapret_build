@@ -6,7 +6,9 @@ youtubei.googleapis.com
 i.ytimg.com
 ytimg.com
 ggpht.com
+yt3.ggpht.com
 youtubekids.com
+
 discord.com
 gateway.discord.gg
 cdn.discordapp.com
