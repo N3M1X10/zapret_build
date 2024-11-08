@@ -116,19 +116,14 @@
 - Сборка утилиты от: https://github.com/N3M1X10
 - Основано на репозитории: https://github.com/bol-van/zapret/
 
-## Помощь в тестировании
-> [!warning]
-> ### [DEV Branch](https://github.com/N3M1X10/zapret_build/tree/dev) - ветка, куда загружаются не протестированные изменения
-Если есть желающие проверить то ознакомьтесь со [**списком отличий**](https://github.com/N3M1X10/zapret_build/compare/main...dev) ветки [dev](https://github.com/N3M1X10/zapret_build/tree/dev) от ветки [main](https://github.com/N3M1X10/zapret_build/) на данный момент
-
 # Благодарность ❤
 
 > [!TIP]
 > Если не получается найти ответ или получить помощь в данном репозитории,
 > всегда можно обратиться к оригинальной документации утилиты zapret и попробовать разобраться со своей проблемой самостоятельно
-> - [zapret/docs/quick_start_windows.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start_windows.txt)
-> - [zapret/docs/quick_start.txt](https://github.com/bol-van/zapret/blob/master/docs/quick_start.txt)
-> - [zapret/docs/readme.txt](https://github.com/bol-van/zapret/blob/master/docs/readme.txt)
+> - [zapret/docs/quick_start_windows.md](https://github.com/bol-van/zapret/blob/master/docs/quick_start_windows.md)
+> - [zapret/docs/quick_start.md](https://github.com/bol-van/zapret/blob/master/docs/quick_start.md)
+> - [zapret/docs/readme.md](https://github.com/bol-van/zapret/blob/master/docs/readme.md)
 
 - Также можете обратиться в [Репозиторий Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 - [Способ взят из темы оригинального репозитория zapret у пользователя Flowseal](https://github.com/bol-van/zapret/issues/455#issuecomment-2400503770)
