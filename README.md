@@ -110,7 +110,7 @@
 ## Если не работают стратегии из сборок
 >[!TIP]
 > Если не работают стандартные стратегии, советую попробовать подобрать параметры winws под себя через блокчек:
-> - [Полная инструкция по самостоятельному подбору параметров](https://github.com/bol-van/zapret/blob/master/docs/quick_start_windows.txt)
+> - [Полная инструкция по самостоятельному подбору параметров](https://github.com/bol-van/zapret/blob/master/docs/quick_start_windows.md)
 
 ## Прочие детали
 - Сборка утилиты от: https://github.com/N3M1X10
