@@ -114,7 +114,7 @@
 
 ## Прочие детали
 - Сборка утилиты от: https://github.com/N3M1X10
-- Основано на репозитории: https://github.com/bol-van/zapret/
+- Основано на репозитории: https://github.com/bol-van/zapret-win-bundle
 
 # Благодарность ❤
 
