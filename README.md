@@ -1,5 +1,8 @@
 # zapret_build
 
+> [!warning]
+> `[02.02.2025]` Данная сборка zapret пока не обновляется. Просьба обращаться [сюда](https://github.com/Flowseal/zapret-discord-youtube#)
+
 > [!NOTE]
 > Моя личная сборка утилиты zapret для Windows, для разблокировки Youtube и Discord в России.
 >
